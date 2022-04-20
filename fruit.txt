@@ -1,4 +1,5 @@
 alma
 körte
 szilva-barack
+eper
 
